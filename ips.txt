@@ -31,3 +31,5 @@
 94.247.142.132#TodaySignIPv4_🇳🇱
 94.247.142.104#TodaySignIPv4_🇳🇱
 94.247.142.82#TodaySignIPv4_🇳🇱
+172.67.145.26#TodaySignIPv4
+104.21.79.110#TodaySignIPv4
