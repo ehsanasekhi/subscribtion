@@ -8,3 +8,6 @@
 [2606:4700:3037:0:d5d5:b929:61b7:f322]:80#TodaySignIPv6
 [2606:4700:3036::71:65db:29e5]:80#TodaySignIPv6
 [2606:4700:3036:d295:9da4:d2ed:ea7b:bc3b]:80#TodaySignIPv6
+[2606:4700:3032::6815:4f6e]#TodaySignIPv6
+[2606:4700:3036::ac43:911a]#TodaySignIPv6
+
